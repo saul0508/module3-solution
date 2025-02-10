@@ -1,0 +1,20 @@
+/* Estilo para el menú desplegable */
+.navbar-nav > li > a {
+    background-color: #ccc;
+    color: #000;
+    text-align: center;
+}
+
+.navbar-toggle {
+    border: none;
+}
+
+/* Asegurar que la barra de navegación no sea fija */
+.navbar {
+    position: relative;
+}
+
+/* Margen superior para el contenido */
+.container {
+    margin-top: 20px;
+}
